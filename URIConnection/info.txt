@@ -1,0 +1,12 @@
+URI: Uniform Resource Identifier (URI) is a string of characters used to identify a name or a resource on the Internet. Such identification enables interaction with representations of the resource over a network (typically the World Wide Web) using specific protocols
+
+URL: In computing, a Uniform Resource Locator (URL) is a subset of the Uniform Resource Identifier (URI) that specifies where an identified resource is available and the mechanism for retrieving it.
+
+Example
+
+To identify a specific resource and how to access it - in all completeness
+
+URI: mysql://localhost@databasename:password
+The URL shows you where you can find the database on the internet and which protocol you should use.
+
+URL: mysql://localhost
