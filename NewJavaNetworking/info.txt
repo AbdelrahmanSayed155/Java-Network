@@ -1,0 +1,45 @@
+ ---- network basics ------
+  benefit 
+  share resourses
+  centeralize apps 
+  java network termonolygy
+  -- ip4
+  -- ip6
+  --net protocols(TCP,IP,UDB,HTTP)
+  --ports 
+  -- Mac Adress
+  -- conection oreinted , connection less
+  -- network socket
+  
+  -- ip4  (logincal address can change)
+  address is unique number related for one of nodes in network
+  version 4 if ip consist from 4 component every one named octant 
+  example 124.10.70.80
+  0=<octant<=255
+  -- ip6 new version of ip which taken by user under network
+  
+ --port every port related with app 
+    help machine to be have alot of apps 
+    every app have specifc port
+    
+ -- Mac Adress media access control
+        ethernat have mac address
+        wifi have mac address 
+ 
+   -- conection oreinted , connection less
+   
+ conection oreinted : confirm that reciver can recieve message 
+ (tcp) then allows sender send message
+ it slow
+ 
+ connection less : don't confirm that reciever can recieve message
+ (UDP) 
+ it fast 
+ 
+socket : basic of networks as 
+communicate between computers 
+can use tcp , udp 
+
+
+
+
